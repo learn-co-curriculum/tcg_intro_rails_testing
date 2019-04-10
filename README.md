@@ -1,16 +1,12 @@
-# Title
+# Rails Testing Exercises
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- Use rspec to write basic ruby tests
+- Test building blocks of Rails
 
 ## Introduction
 
-## SWBAT 1
+Follow the 5 exercises from [Thoughtbot's Upcase Track on Rails Testing](https://thoughtbot.com/upcase/rails-testing-exercises)
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+They'll guide you from writing your first test in rspec through using tests to drive feature development. Completing all 5 exercises should take about 2.5 hours.
